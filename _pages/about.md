@@ -6,10 +6,10 @@ image: 12.jpg
 欢迎光临本站！
 ***
 
-#### Austin scenester...
-<small>1995 - 2000</small>
+#### 特别声明
+<small>------</small>
+本站以无偿分享资源为初衷，但资源的搜集整理及发布都需要大量的时间和精力，所以部分资源和服务会收费，或者用其他同类资源置换。
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
 
 #### Vinyl hexagon before...
 <small>2001 - 2008</small>
