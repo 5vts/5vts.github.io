@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 关于本站
-image: 12.jpg
+image: [https://i.328888.xyz/2023/01/03/tEZmx.png]
 ---
 ##欢迎光临本站！
 
@@ -18,7 +18,7 @@ image: 12.jpg
 
 ![]({{site.baseurl}}/images/gzh.jpg)
 ![]({{site.baseurl}}/images/15.jpg)
-![tEZmx.png](https://i.328888.xyz/2023/01/03/tEZmx.png)
+![5vsk](https://i.328888.xyz/2023/01/03/tEZmx.png)
 
 
 #### 其他联系方式...
