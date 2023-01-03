@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 关于本站
-image: [https://i.328888.xyz/2023/01/03/tEZmx.png]
+image: https://i.328888.xyz/2023/01/03/tEZmx.png
 ---
 ##欢迎光临本站！
 
