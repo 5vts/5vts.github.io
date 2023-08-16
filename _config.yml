@@ -2,12 +2,12 @@
 title: 5VSK
 description: 资源分享站
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mayaurora.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://5vts.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
-hero: 112.jpg
-hero-title: Welcome to 5VSK！
-hero-description: 分享各种资源
+hero: https://api.btstu.cn/sjbz/api.php?lx=dongman&format=images
+hero-title: 世界的尽头，是未曾拥抱过的太阳！
+hero-description: 五维时空资源站
 
 # Author - Creator
 author-name: Ben Campbell
